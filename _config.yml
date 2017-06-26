@@ -25,7 +25,7 @@ github_username:  brizzock
 # Build settings
 highlighter: rouge
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 permalink: /blog/:year/:month/:day/:title
